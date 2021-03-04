@@ -1,15 +1,16 @@
-id: opecha:P000548
+id: P000548
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21782
   title: གཞོན་ནུ་དྲུག་གི་རྟོགས་བརྗོད།
-  volume:
+  author: ''
+  volumes:
     057a4299875547999edee8a88d2e6fa6:
       image_group_id: I1KG23247
       title: Volume 1 of gzhon nu drug gi rtogs brjod/
       volume_number: 1
       total_pages: 108
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གཞོན་ནུ་དྲུག་གི་རྟོགས་བརྗོད།
   author: ''
